@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Neofusion theme for <a href="https://sw.kovidgoyal.net/kitty/#" target="_blank">Kitty</a> blending lava red and ice blue colors
+    Neofusion theme for <a href="https://sw.kovidgoyal.net/kitty/#" target="_blank">Kitty</a> 🐱 blending lava red and ice blue colors
 </p>
 
 <p align="center">
