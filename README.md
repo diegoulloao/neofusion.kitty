@@ -31,7 +31,7 @@
 
 Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-it-works) in the Kitty official documentation page.
 
-# Tabs
+# Tabs 🔶
 
 <p align="center">
     
