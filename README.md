@@ -41,7 +41,7 @@ https://github.com/diegoulloao/neofusion.kitty/assets/45423661/1f59b8a1-29d0-453
 
 Add the following code inside your `kitty.conf`
 
-```bash
+```
 # tabs
 tab_bar_edge top
 tab_bar_align center
