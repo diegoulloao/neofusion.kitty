@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/ZXbMJ5J/neofusion-kitty-1.png" alt="neofusion" />
+    <img src="https://i.ibb.co/dt1tY65/kitty-1.png" alt="neofusion" />
     <hr/>
     <p><b><code>spotify-player</code></b></p>
-    <img src="https://i.ibb.co/34qBQYK/neofusion-kitty-2.png" alt="neofusion" />
+    <img src="https://i.ibb.co/wzJPH1G/kitty-2.png" alt="neofusion" />
     <hr/>
     <p><b><code>htop</code></b></p>
-    <img src="https://i.ibb.co/F5Y63cb/neofusion-kitty-3.png" alt="neofusion" />
+    <img src="https://i.ibb.co/D1pRsKc/kitty-3.png" alt="neofusion" />
     <hr />
     <p><b><code>onefetch</code></b></p>
-    <img src="https://i.ibb.co/LRYWnTQ/neofusion-kitty-4.png" alt="neofusion" />
+    <img src="https://i.ibb.co/3Fsyr1n/kitty-4.png" alt="neofusion" />
 </p>
 
 # Getting the right diff colors ✅
