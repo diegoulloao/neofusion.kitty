@@ -35,7 +35,7 @@ Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-i
 
 <p align="center">
 
-https://github.com/diegoulloao/neofusion.kitty/assets/45423661/c3e32664-1b27-4b5c-9332-befb09521370
+https://github.com/diegoulloao/neofusion.kitty/assets/45423661/d78ce719-bc22-4f8a-8c68-4c4ba5f2ea14
 
 </p>
 
