@@ -34,8 +34,8 @@ Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-i
 # Tabs 🔶
 
 <p align="center">
-    
-https://github.com/diegoulloao/neofusion.kitty/assets/45423661/f9d951d6-01e9-4bc5-90c4-c6edb43212a3
+
+https://github.com/diegoulloao/neofusion.kitty/assets/45423661/1f59b8a1-29d0-4539-ac8f-4684ec1164ca
 
 </p>
 
