@@ -35,11 +35,11 @@ Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-i
 
 <p align="center">
 
-https://github.com/diegoulloao/neofusion.kitty/assets/45423661/d78ce719-bc22-4f8a-8c68-4c4ba5f2ea14
+https://github.com/diegoulloao/neofusion.kitty/assets/45423661/bdf00ec2-aae2-49eb-9b28-0bbd31a64b1b
 
 </p>
 
-Add the following code inside your `kitty.conf`
+Add the following code inside your `kitty.conf`:
 
 ```
 # tabs
