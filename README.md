@@ -1,3 +1,4 @@
+
 <div align="center">
     <h1>
         <img src="https://i.ibb.co/M1qx4Ng/logo.jpg" width="110" />
@@ -26,6 +27,35 @@
     <img src="https://i.ibb.co/3Fsyr1n/kitty-4.png" alt="neofusion" />
 </p>
 
+# Installation 📦
+
+Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-it-works) in the Kitty official documentation page.
+
+# Tabs
+
+<p align="center">
+    
+https://github.com/diegoulloao/neofusion.kitty/assets/45423661/f9d951d6-01e9-4bc5-90c4-c6edb43212a3
+
+</p>
+
+Add the following code inside your `kitty.conf`
+
+```bash
+# tabs
+tab_bar_edge top
+tab_bar_align center
+tab_bar_style powerline
+tab_powerline_style slanted
+
+# tabs colors
+active_tab_foreground #070f1c
+active_tab_background #ea6847
+# or cyan: active_tab_background #86dbf5
+inactive_tab_foreground #22536f 
+inactive_tab_background #070f1c
+```
+
 # Getting the right diff colors ✅
 
 Add the following lines to your `~/.gitconfig` file:
@@ -34,10 +64,6 @@ Add the following lines to your `~/.gitconfig` file:
 [color "diff"]
   new = cyan
 ```
-
-# Installation 📦
-
-Check the [themes section](https://sw.kovidgoyal.net/kitty/kittens/themes/#how-it-works) in the Kitty official documentation page.
 
 # Projects ⭐
 
