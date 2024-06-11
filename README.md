@@ -39,7 +39,7 @@ https://github.com/diegoulloao/neofusion.kitty/assets/45423661/bdf00ec2-aae2-49e
 
 </p>
 
-Add the following code inside your `kitty.conf`:
+Add the following code into your `kitty.conf`:
 
 ```
 # tabs
@@ -78,6 +78,10 @@ iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.i
 ### `neofusion.alacritty`
 
 Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
+
+### `neofusion.wezterm`
+
+WezTerm theme version. [Check it out!](https://github.com/diegoulloao/neofusion.wezterm)
 
 ### `neofusion.winterm`
 
