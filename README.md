@@ -79,6 +79,10 @@ iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.i
 
 Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
 
+### `neofusion.winterm`
+
+Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/neofusion.winterm)
+
 ### `neofusion.bat`
 
 Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
