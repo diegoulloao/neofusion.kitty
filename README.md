@@ -65,7 +65,7 @@ Add the following lines to your `~/.gitconfig` file:
   new = cyan
 ```
 
-# Projects ⭐
+# Ports ⭐
 
 ### `neofusion.nvim`
 
