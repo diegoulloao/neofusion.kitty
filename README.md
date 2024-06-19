@@ -114,4 +114,4 @@ Beautiful wallpapers that match your setup. [Check available resolutions](https:
 
 Check out our awesome sponsors!
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/NeckBeardPrince"><img src="https://github.com/NeckBeardPrince.png" width="60px" alt="Adam Stracener" /></a><a href="https://github.com/drgfunk"><img src="https://github.com/drgfunk.png" width="60px" alt="" /></a><!-- sponsors -->
