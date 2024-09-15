@@ -59,13 +59,16 @@ inactive_tab_foreground #22536f
 inactive_tab_background #070f1c
 ```
 
-# Getting the right diff colors ✅
+# Getting the right git colors ✅
 
 Add the following lines to your `~/.gitconfig` file:
 
 ```bash
 [color "diff"]
   new = cyan
+[color "status"]
+  added = yellow
+  changed = red
 ```
 
 # Ports ⭐
