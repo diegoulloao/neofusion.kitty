@@ -117,6 +117,18 @@ Posting theme version. [Check it out!](https://github.com/diegoulloao/neofusion.
 
 VS Code theme version [Check it out!](https://github.com/diegoulloao/neofusion.vscode/)
 
+### `neofusion.opencode`
+
+OpenCode theme version [Check it out!](https://github.com/diegoulloao/neofusion.opencode/)
+
+### `neofusion-emacs` (third-party)
+
+Emacs theme version by [@konrad1977](https://github.com/konrad1977). [Check it out!](https://github.com/konrad1977/neofusion-emacs)
+
+### `neofusion.zed` (third-party)
+
+Zed theme version by [@freddiehaddad](https://github.com/freddiehaddad). [Check it out!](https://github.com/freddiehaddad/neofusion.zed)
+
 ### `neofusion-wallpapers`
 
 Beautiful wallpapers that match your setup. [Check available resolutions](https://github.com/diegoulloao/neofusion-wallpapers?tab=readme-ov-file)
